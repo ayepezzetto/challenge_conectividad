@@ -5,7 +5,7 @@
 Este repositorio contiene tres desafíos técnicos diseñados para una posición de **Data Engineer / Analytics**. Cada desafío se enfoca en un área específica: análisis de datos, desarrollo en Python y modelado con SQL.
 
 📂 **Lo que incluye**:
-- Análisis y visualización de datos con Power BI
+- Análisis y visualización de datos con Tableau public
 - Procesos ETL utilizando API
 - Diseño de modelos de datos y consultas SQL avanzadas
 
@@ -15,7 +15,7 @@ Este repositorio contiene tres desafíos técnicos diseñados para una posición
 
 Estudio descriptivo utilizando fuentes oficiales (INDEC, ENACOM, World Bank) para representar cómo ha crecido el acceso a Internet en diferentes regiones del país.
 
-🔗 [Ver Dashboard en Tableau Public](https://public.tableau.com/app/profile/matias4042/viz/EvolucionInternetArg/Dashboard?publish=yes)
+🔗 [Ver Dashboard en Tableau Public](https://public.tableau.com/app/profile/ayelen.pezzetto/viz/InternetenArgentina_17450770735180/Usuariossuscripciones)
 
 📂 `Analytics_Challenge/`
 
