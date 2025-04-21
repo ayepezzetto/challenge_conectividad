@@ -9,9 +9,6 @@ Este repositorio contiene tres desafíos técnicos diseñados para una posición
 - Procesos ETL utilizando API
 - Diseño de modelos de datos y consultas SQL avanzadas
 
-📊 **Presentación general del perfil y proyectos**  
-[Ver presentación aquí](https://docs.google.com/presentation/d/1rYLnK8vbbAvBcrpvlXgZS5hKoLVuAvyJRYYG6WnRFEI/edit?usp=drive_link)
-
 ---
 
 ## 1. 🌐 **Análisis de la Evolución del Acceso a Internet en Argentina**
