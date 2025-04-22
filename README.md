@@ -2,12 +2,15 @@
 
 ### **Ayelen Pezzetto - Abril 2024**
 
-Este repositorio contiene tres desafíos técnicos diseñados para una posición de **Data Engineer / Analytics**. Cada desafío se enfoca en un área específica: análisis de datos, desarrollo en Python y modelado con SQL.
+Este repositorio alberga tres desafíos técnicos diseñados para una posición de Data Engineer / Analytics. Cada desafío aborda un área clave: análisis de datos, desarrollo en Python y modelado con SQL.
 
-📂 **Lo que incluye**:
-- Análisis y visualización de datos con Tableau public
-- Procesos ETL utilizando API
-- Diseño de modelos de datos y consultas SQL avanzadas
+📂 Lo que incluye:
+
+Análisis y visualización de datos utilizando Tableau Public.
+
+Implementación de procesos ETL mediante el consumo de APIs.
+
+Diseño y optimización de modelos de datos y consultas SQL avanzadas.
 
 ---
 
@@ -23,7 +26,7 @@ Estudio descriptivo utilizando fuentes oficiales (INDEC, ENACOM, World Bank) par
 
 ## 2. 🔄 **Desafío de API - Engineer**
 
-Script en Python para consultar cotizaciones de divisas a través de la API de [AwesomeAPI](https://docs.awesomeapi.com.br/), normalizar los datos y guardarlos en formatos `.csv` o `.txt`.
+Script en Python para consultar cotizaciones de divisas a través de la API de [AwesomeAPI](https://docs.awesomeapi.com.br/), normalizar los datos y guardarlos en formatos `.csv`.
 
 📂 `API_Challenge-ETL/`
 
@@ -36,15 +39,19 @@ Incluye:
 
 ## 3. 🗂️ **Desafío SQL - Engineer**
 
-Modelo relacional diseñado para un entorno de e-commerce, que incluye la creación de tablas, procedimientos almacenados y consultas SQL complejas.
+Modelo relacional diseñado para un entorno de e-commerce, que abarca la creación de tablas, procedimientos almacenados y el desarrollo de consultas SQL complejas para gestionar eficientemente los datos de clientes, productos, categorías y ordenes.
 
 📂 `SQL_Challenge-Engineer/`
 
 Incluye:
-- Diagrama de Entidad-Relación (DER)
-- Scripts DDL con índices y triggers
-- Procedimientos almacenados reprocesables
-- Consultas SQL para necesidades de negocio específicas
+
+Diagrama de Entidad-Relación (DER) que representa las relaciones entre las entidades principales del sistema (clientes, productos, categorías y órdenes).
+
+Scripts DDL para la creación de tablas, claves primarias, claves foráneas, índices y triggers, asegurando la integridad y automatización de las operaciones.
+
+Procedimientos almacenados reprocesables para manejar el registro de estados y precios de los productos al final del día.
+
+Consultas SQL diseñadas para responder a las necesidades de negocio específicas, como la obtención de ventas por cliente, la generación de informes de ventas por mes, y otros análisis clave.
 
 ---
 
