@@ -1,4 +1,5 @@
 # Dashboard de Internet en Argentina
+Tablero: (https://public.tableau.com/views/InternetenArgentina_17450770735180/Usuariossuscripciones?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Descripción del Proyecto:
 Este **Dashboard** proporciona una visualización del **uso de Internet** y la **suscripción a banda ancha** en **Argentina** a lo largo del tiempo (desde 2006 hasta 2024). Los gráficos muestran la **evolución del acceso a Internet** por provincia y las tecnologías utilizadas (ADSL, Cablemodem, Fibra Óptica), así como las **mejoras en la velocidad de Internet** por provincia en los últimos años.
